@@ -15,12 +15,20 @@ This time, we’ll be auditing **[ZKsync OS](https://docs.zksync.io/zk-stack/com
 
 The total duration of the competition is **123 hours**:
 - Competition start: **November 3, 2025 at 1:00 PM (CET)**.
-- Submission window opens: **November 8, 2025 at 1:00 PM (CET)**.
-- Submissions close: **November 8, 2025 at 4:00 PM (CET)**.
+- Submission window opens: ~~**November 8, 2025 at 1:00 PM (CET)**~~ (see the "Extension" section).
+- Submissions close: ~~**November 8, 2025 at 4:00 PM (CET)**~~ (see the "Extension" section).
 
 :warning: The submission window is very short (only 3 hours). Submitting too early may lead to disqualification, while late submissions are not guaranteed to be accepted. Please reach out to us if the submission window falls late at night in your timezone — we can arrange a private submission window for you.
 
 Make sure to submit within the designated timeframe.
+
+### Extended
+
+Following [the vote](https://t.me/taran_space/77), we have decided to extend the competition.
+
+New timeline (**extended by 72 hours**):
+- Submission window opens: **November 11, 2025 at 1:00 PM (CET)**.
+- Submissions close: **November 11, 2025 at 4:00 PM (CET)**.
 
 ## Scope
 
